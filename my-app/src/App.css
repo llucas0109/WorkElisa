@@ -10,6 +10,10 @@ html,
 body{ 
   font-size: 18px;
   background-color: #f5f6f7;
+  text-align: justify;
+}
+a#Dowload{
+  padding-bottom: 50px;
 }
 h1{
   max-width: 940px;
