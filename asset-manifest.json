@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WorkElisa/static/css/main.778dbd08.css",
-    "main.js": "/WorkElisa/static/js/main.5bd35e7a.js",
-    "static/media/20220514_123126.jpg": "/WorkElisa/static/media/20220514_123126.e6dbbc073663eb612383.jpg",
+    "main.js": "/WorkElisa/static/js/main.21350702.js",
+    "static/media/20220514_123126.jpg": "/WorkElisa/static/media/20220514_123126.213d97fa0f2e9b95bda1.jpg",
     "static/media/photo_2023-12-16_12-27-50.jpg": "/WorkElisa/static/media/photo_2023-12-16_12-27-50.524b45aaa89c0c29bbd0.jpg",
     "index.html": "/WorkElisa/index.html",
     "main.778dbd08.css.map": "/WorkElisa/static/css/main.778dbd08.css.map",
-    "main.5bd35e7a.js.map": "/WorkElisa/static/js/main.5bd35e7a.js.map"
+    "main.21350702.js.map": "/WorkElisa/static/js/main.21350702.js.map"
   },
   "entrypoints": [
     "static/css/main.778dbd08.css",
-    "static/js/main.5bd35e7a.js"
+    "static/js/main.21350702.js"
   ]
 }
