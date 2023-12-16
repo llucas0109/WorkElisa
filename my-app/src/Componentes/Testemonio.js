@@ -7,8 +7,8 @@ export function Testimonio(props){
       <img className="imagen-testimonio" src={require(`../imagens/${props.imagem}.jpg`)} alt="Foto De Emma"/>
         <div className="contenedor-de-texto-testimonio">
           <p className="nombre-testimonio"><strong>{props.nome}</strong> em {props.pais}</p>
-          <p className="cargo-testimonio">{props.cargo}  no <strong>{props.empresa}</strong></p>
-          <p className="texto-testimonio">"{props.testimonio} <a href="#"  target="__blank">especial"</a></p>
+          <p className="cargo-testimonio">{props.cargo}   <strong>{props.empresa}</strong></p>
+          <p className="texto-testimonio">"{props.testimonio}  <a href="https://drive.google.com/file/d/1EhYCMZeV1ve4WfvJozvZsDF6pYEUhsbu/view?usp=drivesdk"   target="__blank">especial"</a></p>
         </div>
     </div>
     )
